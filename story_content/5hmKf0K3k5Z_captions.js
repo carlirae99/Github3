@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.89.32618.0%0D%0A%0D%0A00:00:00.352%20--%3E%2000:00:05.513%0D%0ASelect%20each%20sentence%20to%20hear%20how%20the%0Asame%20phrase%20might%20be%20conveyed%20differently%20based%20on%20punctuation.%20%0D%0A%0D%0A"}')
